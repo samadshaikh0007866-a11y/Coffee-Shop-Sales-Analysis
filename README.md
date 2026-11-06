@@ -31,7 +31,7 @@ Analyzed coffee shop transaction data to identify sales trends, product performa
 - Packaged Chocolate was the lowest-selling category.
 
 ## 📈 Dashboard Preview
-
+- ![Coffee Shop Sales Dashboard](Dashboard_Preview.png)
 
 
 ## 📁 Project Files
